@@ -23,3 +23,4 @@ if you open(run) it tkinker will appear so
  just place sentence on text tab and click "send" button
  if you wanna save your current text to spamme2.txt click "save to txt" button
  if you wanna load text from .txt click "load from txt" button
+  add "<wait(second)>" to let this pprogram wait(time.sleep()) eg. <wait3> for wait 3 sec
